@@ -1,0 +1,6 @@
+{
+  "name": "J S Financial Service",
+  "description": "Comprehensive mobile & digital platform scope, interactive customer app, CRM admin panel, and development cost & architecture estimator for J S Financial Service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
